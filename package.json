@@ -1,0 +1,12 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "프리온보딩 프론트엔드 챌린지 2차",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
